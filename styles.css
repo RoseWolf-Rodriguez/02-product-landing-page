@@ -13,9 +13,11 @@ body {
 .hero {
   text-align: center;
   background-color: #eaf6ff; /* soft light blue background */
+  padding: 60px 0; /* Added padding in pixels */
 }
 
 .hero img {
+  width: 300px;
   border-radius: 50%;
   border: solid 4px #16213e;
   margin-bottom: 20px;
